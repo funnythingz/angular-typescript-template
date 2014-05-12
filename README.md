@@ -4,10 +4,16 @@ This is TypeScript & Sass/Compass Project Template for Angularjs.
 
 ## Getting Started
 
-Install Grunt Plugin
+Install Grunt Plugin.
 
 ```shell
 % npm install
+```
+
+Install bower components
+
+```shell
+% bower install
 ```
 
 ### Directory
