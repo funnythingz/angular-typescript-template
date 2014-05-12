@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+@import "compass/css3";
+
+body {
+  background-color: #f1f2f3;
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+}
+
+h1 {
+  color: #123;
+  @include text-shadow(0 1px 0 #c7c8c9);
+
+}

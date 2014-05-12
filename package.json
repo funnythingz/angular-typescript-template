@@ -1,0 +1,21 @@
+{
+  "name": "typescript-angularjs-template",
+  "version": "0.0.0",
+  "description": "TypeScript & sass/compass for Angularjs project",
+  "author": "funnythingz",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-typescript": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-copy": "latest",
+    "testem": "~0.6.2",
+    "chai": "~1.9.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "typescript-angularjs-template",
+  "dependencies": {
+    "angular" : "https://github.com/angular/bower-angular.git#*"
+  }
+}
