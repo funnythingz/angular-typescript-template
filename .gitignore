@@ -4,3 +4,4 @@ lib
 .sass-cache
 .DS_Store
 build
+bower_components

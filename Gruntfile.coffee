@@ -44,6 +44,14 @@ module.exports = (grunt)->
           dest: 'build/imgs/'
         }]
 
+      angular:
+        files: [{
+          expand: true
+          cwd: 'bower_components/angular/'
+          src: ['angular.min.js']
+          dest: 'build/js/'
+        }]
+
     typescript:
       base:
         src: ['src/ts/**/*.ts', 'tests/**/*.ts']
