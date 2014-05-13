@@ -1,7 +1,7 @@
 {
-  "name": "typescript-angularjs-template",
+  "name": "typescript-angular-template",
   "version": "0.0.0",
-  "description": "TypeScript & sass/compass for Angularjs project",
+  "description": "TypeScript & sass/compass for Angular project",
   "author": "funnythingz",
   "license": "BSD",
   "devDependencies": {

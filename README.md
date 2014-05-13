@@ -1,6 +1,6 @@
-# Angularjs project template for TypeScript & Sass/Compass
+# Angular project template for TypeScript & Sass/Compass
 
-This is TypeScript & Sass/Compass Project Template for Angularjs.
+This is TypeScript & Sass/Compass Project Template for Angular.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ Install Grunt Plugin.
 % npm install
 ```
 
-Install bower components
+Install bower components.
 
 ```shell
 % bower install
@@ -27,7 +27,7 @@ src
 ├── scss
 │   └── style.scss
 └── ts
-    └── oop.ts
+    └── hoge.ts
 ```
 
 #### build
