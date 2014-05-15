@@ -12,7 +12,6 @@
     "grunt-contrib-watch": "latest",
     "grunt-contrib-sass": "latest",
     "grunt-contrib-compass": "latest",
-    "grunt-contrib-concat": "latest",
     "grunt-contrib-connect": "latest",
     "grunt-contrib-copy": "latest",
     "testem": "~0.6.2",

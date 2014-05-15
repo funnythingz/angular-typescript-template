@@ -1,23 +1,17 @@
 /// <reference path="../../typings/tsd.d.ts" />
 
-module app {
-    'use strict';
+module App {
 
-    var myApp: ng.IModule = angular.module('app', []);
-    myApp.controller('simpleCtrl', SimpleController);
+    export class Apprication {
 
-    export interface IScope extends ng.IScope {
-        greeting: string;
-    }
+        myApp: ng.IModule = angular.module('app', []);
 
-    export class SimpleController {
-
-        constructor(private $scope: IScope) {
-
-            this.$scope.greeting = 'hello';
-
+        constructor() {
+            this.myApp.controller('simpleCtrl', SimpleController);
         }
-
+    
     }
+
+    new Apprication();
 
 }
