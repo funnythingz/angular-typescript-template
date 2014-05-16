@@ -64,7 +64,7 @@ module.exports = (grunt)->
     watch:
       typescript:
         files: ['src/ts/**/*.ts', 'tests/**/*.ts']
-        tasks: ['clean', 'typescript', 'uglify', 'copy']
+        tasks: ['clean', 'typescript', 'uglify', 'copy', 'compass']
         options:
           atBegin: true
 
