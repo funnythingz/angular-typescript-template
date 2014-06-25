@@ -1,5 +1,7 @@
 # Angular project template for TypeScript & Sass/Compass
 
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 This is TypeScript & Sass/Compass Project Template for Angular.
 
 ## Getting Started
